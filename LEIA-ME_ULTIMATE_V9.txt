@@ -1,0 +1,25 @@
+QUÍMICA MAN ULTIMATE V9 — FASE 1 INTERATIVA
+================================================
+
+FASE DO SÓDIO
+-------------
+- Bonecos laranja substituídos por seis inimigos temáticos:
+  Slime de Sódio, Drone Salino, Robô Alcalino, Gota Reativa,
+  Cristal de Sal e Peixe Metálico.
+- Água funcional: reduz velocidade, gravidade e queda; gera bolhas.
+- Usar Explosão Alcalina dentro da água causa dano elevado.
+- Terminal NaOH interativo com E ou botão AÇÃO.
+- Para produzir NaOH, o jogador precisa coletar Na e encontrar água.
+- NaOH abre a porta do reator.
+- Catalisador de Salto desbloqueia pulo duplo.
+- Objetivos aparecem no HUD como checklist.
+- O antigo bloco decorativo de NaOH foi desativado.
+
+PULO DUPLO
+----------
+Depois de coletar o Catalisador de Salto, pressione pular novamente no ar.
+
+CONTROLES
+---------
+E — interagir/sintetizar
+No celular — botão AÇÃO

@@ -1,0 +1,29 @@
+QUÍMICA MAN ULTIMATE V7 — FUNDOS ILUSTRADOS
+============================================
+
+Esta versão usa a V6 com pulo corrigido como base.
+
+NOVOS FUNDOS
+------------
+1. Reino do Sódio — refinaria azul e cristais.
+2. Reino do Cálcio — cidade branca, mármore e cachoeiras.
+3. Reino do Alumínio — indústria metálica e braços robóticos.
+4. Reino do Carbono — caverna escura e cristais.
+5. Reino do Nitrogênio — região congelada e aurora.
+6. Reino do Oxigênio — vulcões, fogo e metal.
+7. Reino dos Halogênios — laboratório tóxico verde.
+8. Reino dos Gases Nobres — cidade espacial e nebulosas.
+
+INTEGRAÇÃO
+----------
+- Fundos recortados e redimensionados para 960×540.
+- Paralaxe em duas camadas.
+- Faixa escura no HUD para manter a leitura.
+- Física, sprites, inimigos, perguntas, áudio e controles preservados.
+- Pulo alto corrigido mantido.
+- Tiro clássico mantido.
+- Cinco vidas iniciais mantidas.
+
+EXECUÇÃO
+--------
+Execute INICIAR_SERVIDOR_WINDOWS.bat e abra http://localhost:8000.

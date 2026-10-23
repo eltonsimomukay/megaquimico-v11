@@ -1,0 +1,57 @@
+QUÍMICA MAN ULTIMATE V4 — TIRO CLÁSSICO
+========================================
+
+MUDANÇA PRINCIPAL
+-----------------
+A mira livre foi removida completamente.
+
+O tiro agora funciona como em jogos clássicos de plataforma:
+- parado: dispara para frente;
+- correndo: dispara para frente;
+- pulando: dispara para frente;
+- segurando cima: dispara para cima;
+- movendo + cima: diagonal superior;
+- pulando + baixo: diagonal inferior.
+
+MOUSE
+-----
+O mouse não controla mais a direção do tiro.
+Durante a fase:
+- lado esquerdo da tela: mover para a esquerda;
+- região central: mover para a direita;
+- lado direito: segurar para carregar e soltar para disparar.
+
+TIRO CARREGADO
+--------------
+- toque rápido: tiro normal;
+- carga curta: nível 1;
+- carga média: nível 2;
+- carga completa: nível 3.
+
+O tiro carregado:
+- causa mais dano;
+- possui projétil maior;
+- consome um pouco mais de energia;
+- apresenta efeito visual ao redor do Quimix.
+
+CONTROLES
+---------
+Teclado:
+A/D ou setas esquerda/direita — mover
+W/↑ — mirar para cima
+S/↓ — mirar para baixo durante o salto
+Espaço — pular
+X — segurar para carregar e soltar para disparar
+Shift — dash
+TAB — poderes
+ESC — pausa
+
+Gamepad:
+D-pad/analógico — movimento e direção do tiro
+A — pular
+X — carregar/disparar
+B — dash
+Y — poderes
+
+Celular:
+Segure o botão X para carregar e solte para disparar.

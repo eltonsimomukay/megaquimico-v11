@@ -1,0 +1,26 @@
+QUÍMICA MAN ULTIMATE V10 — TODAS AS FASES INTERATIVAS
+=======================================================
+
+Cada fase agora possui:
+- elemento obrigatório;
+- mecânica ambiental;
+- terminal de síntese;
+- composto necessário;
+- porta/barreira;
+- habilidade ou proteção desbloqueável;
+- checklist no HUD.
+
+FASES
+-----
+1. Sódio: Na + água → NaOH; abre porta alcalina; desbloqueia pulo duplo.
+2. Cálcio: Ca + mineral → CaCO3; rompe parede calcária; desbloqueia quebra-mineral.
+3. Alumínio: Al + magnetismo → Al2O3; ativa porta magnética; desbloqueia atração magnética.
+4. Carbono: C + condução → CO2; energiza ponte; desbloqueia condução de grafite.
+5. Nitrogênio: N + vento/gelo → NH3; libera pressão; desbloqueia resistência ao gelo.
+6. Oxigênio: O + fogo/oxidação → H2O; apaga barreira de fogo; desbloqueia resistência térmica.
+7. Halogênios: Cl + ácido/névoa → HCl; dissolve trava; desbloqueia proteção anticorrosiva.
+8. Gases nobres: Ar + escudo/teleporte → estabilização; abre escudo nobre; desbloqueia campo inerte.
+
+CONTROLE
+--------
+E ou botão AÇÃO: usar o terminal de síntese.

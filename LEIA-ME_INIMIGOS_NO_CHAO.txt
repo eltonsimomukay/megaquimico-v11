@@ -1,0 +1,10 @@
+CORREÇÃO GLOBAL DOS INIMIGOS — TODAS AS 8 FASES
+
+- Inimigos terrestres agora nascem e permanecem apoiados no chão ou nas plataformas.
+- Inimigos que saem de uma borda caem com gravidade até a próxima superfície.
+- Inimigos saltadores e Gel Reagente usam salto físico e retornam corretamente ao piso.
+- Inimigos voadores permanecem em uma faixa aérea estável.
+- O desenho escolhe automaticamente sprites de flyer/drone para inimigos voadores.
+- Nas famílias sem flyer próprio, o Drone Iônico é usado como alternativa adequada.
+- Sprites de slime/gel, escudo/tanque e corredores são associados ao comportamento correto.
+- A correção foi aplicada ao gerador comum usado pelas 8 fases.

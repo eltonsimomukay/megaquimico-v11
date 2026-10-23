@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>MEGAQUÍMICO V11 — Ultimate Edition</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div id="app">
+<header><h1>MEGAQUÍMICO <span class="version">V11</span></h1><p>Quimix: Reações, Compostos & Famílias</p></header>
+<main>
+<div class="v11-toolbar"><span>⚗️ Ultimate Edition · Fases interativas</span><button id="v11-fullscreen" type="button" aria-label="Tela cheia">⛶ Tela cheia</button></div>
+<canvas id="game" width="960" height="540"></canvas>
+<div id="touchControls">
+<button data-key="left">◀</button><button data-key="right">▶</button>
+<button data-key="jump">▲</button><button data-key="shoot">X</button>
+<button data-key="interact">AÇÃO</button><button data-key="power">PODER</button>
+</div>
+</main>
+<footer>A/D ou setas: mover · Espaço: pular · X: atirar · E: interagir · TAB: trocar poder</footer>
+</div>
+<script src="js/v11-enhancements.js" defer></script>
+<script src="js/data.js"></script>
+<script src="js/assets.js"></script>
+<script src="js/audio.js"></script>
+<script src="js/modules/content_v2.js"></script>
+<script src="js/modules/phase_questions.js"></script>
+<script src="js/modules/phase_interactions.js"></script>
+<script src="js/game_v2.js"></script>
+<script>
+if("serviceWorker" in navigator && location.protocol.startsWith("http")){
+  navigator.serviceWorker.register("service-worker.js").catch(()=>{});
+}
+</script>
+</body>
+</html>

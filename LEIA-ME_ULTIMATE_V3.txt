@@ -1,0 +1,32 @@
+QUÍMICA MAN ULTIMATE V3 — MIRA E VIDAS
+=======================================
+
+ALTERAÇÕES
+----------
+- Mira fixa em 8 direções.
+- Cursor químico com símbolo de átomo.
+- Projétil nasce na ponta do QuimBlaster.
+- Pequeno autoajuste quando existe inimigo muito próximo da direção escolhida.
+- Compatível com mouse, teclado, celular e gamepad.
+- O jogador começa cada fase com 5 vidas.
+- Resposta correta: ganha 1 vida.
+- Resposta errada: perde 1 vida.
+- Fases ampliadas de 4.200 para 6.200 unidades.
+- Mais plataformas, inimigos e um terceiro checkpoint.
+- Minichefe e chefe reposicionados para o novo tamanho.
+- HUD mostra a quantidade atual de vidas.
+
+CONTROLES DE MIRA
+-----------------
+Mouse/toque:
+O cursor escolhe um dos 8 setores de direção.
+
+Gamepad:
+A direção do analógico/d-pad define o setor.
+
+Teclado:
+O personagem mantém a direção escolhida pelo movimento e pela mira.
+
+EXECUÇÃO
+--------
+Use INICIAR_SERVIDOR_WINDOWS.bat e abra http://localhost:8000.

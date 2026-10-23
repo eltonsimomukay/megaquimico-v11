@@ -1,0 +1,24 @@
+QUÍMICA MAN ULTIMATE V6 — PULO CORRIGIDO
+=========================================
+
+AJUSTES
+-------
+- impulso do pulo aumentado;
+- gravidade reduzida;
+- velocidade máxima de queda reduzida;
+- wall jump mais alto e mais forte;
+- melhor impulso horizontal durante o salto;
+- coyote time maior;
+- jump buffer maior;
+- soltar o botão reduz menos a altura;
+- hitbox menor para evitar travamento em quinas.
+
+NOVOS VALORES
+-------------
+Pulo normal: -20,5
+Wall jump: -19,0
+Gravidade: 0,42
+Queda máxima: 12,0
+
+O Quimix agora consegue ultrapassar com mais facilidade plataformas,
+obstáculos e desníveis altos.

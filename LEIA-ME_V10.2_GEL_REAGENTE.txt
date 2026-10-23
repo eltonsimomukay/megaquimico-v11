@@ -1,0 +1,11 @@
+QUÍMICA MAN V10.2 — GEL REAGENTE
+
+Alterações no inimigo laranja:
+- animação pulsante;
+- pequenos saltos automáticos;
+- causa exatamente 1 ponto de dano ao tocar no jogador;
+- é derrotado com um tiro;
+- também é derrotado ao ser pisado por cima;
+- ao pisar, o jogador recebe um pequeno impulso para cima.
+
+As barras cinzas continuam sem bloquear o jogador.

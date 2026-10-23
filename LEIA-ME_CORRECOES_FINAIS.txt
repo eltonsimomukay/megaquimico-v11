@@ -1,0 +1,12 @@
+MEGAQUÍMICO V10 — CORREÇÕES FINAIS
+
+1. Átomos e energia separados:
+- Átomos usam núcleo, órbitas, símbolo e nome; são reagentes do sintetizador.
+- Esferas sem símbolo recuperam energia e pequena quantidade de HP.
+
+2. Minichefes:
+- Minichefes terrestres são posicionados exatamente sobre o chão.
+- Apenas o Drone de Fósforo permanece voando.
+
+3. Tela final:
+- Mostra HP, energia, poder final, reações, átomos, esferas, segredos, tempo e estrelas.

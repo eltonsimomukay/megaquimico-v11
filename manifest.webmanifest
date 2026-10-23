@@ -1,0 +1,10 @@
+{
+  "name": "MEGAQUÍMICO V11 Ultimate — Quimix",
+  "short_name": "MEGAQUÍMICO V11",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "background_color": "#07111f",
+  "theme_color": "#47c7ff",
+  "orientation": "landscape",
+  "icons": []
+}

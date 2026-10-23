@@ -1,0 +1,13 @@
+MEGAQUÍMICO V10 — MINICHEFES PERSONALIZADOS
+
+Foram substituídos os sprites genéricos dos oito minichefes por robôs químicos personalizados:
+1. Golem Alcalino — Na
+2. Guardião de Magnésio — Mg
+3. Sentinela de Alumínio — Al
+4. Colosso de Silício — Si
+5. Drone de Fósforo — P
+6. Fera de Enxofre — S
+7. Slime de Bromo — Br
+8. Escudo de Argônio — Ar
+
+Cada sprite tem placa com símbolo químico e cor temática da fase. As hitboxes, vida e comportamento dos minichefes foram preservados.

@@ -1,0 +1,28 @@
+QUÍMICA MAN ULTIMATE V8
+==========================
+
+OBSTÁCULOS CORRIGIDOS
+---------------------
+- paredes escaláveis reduzidas;
+- cristais, ferrugem e escudos mais baixos;
+- rampas menos inclinadas;
+- elevadores mais acessíveis;
+- plataformas intermediárias criadas automaticamente;
+- plataformas muito altas reposicionadas;
+- obstáculos temporários de minichefe reduzidos.
+
+PERGUNTAS POR FASE
+------------------
+Cada fase possui um banco próprio com cinco questões.
+
+1. Sódio: família, símbolo, íon, reação com água e NaCl.
+2. Cálcio: símbolo, Ca²⁺, grupo 2, CaCO₃.
+3. Alumínio: símbolo, propriedades, grupo 13 e Al₂O₃.
+4. Carbono: símbolo, alotropia, grupo 14 e CO₂.
+5. Nitrogênio: símbolo, N₂, grupo 15 e NH₃.
+6. Oxigênio: símbolo, O₂, grupo 16 e H₂O.
+7. Halogênios: grupo 17, Cl⁻, bromo e HCl.
+8. Gases nobres: grupo 18, baixa reatividade, neônio e argônio.
+
+As perguntas são selecionadas aleatoriamente e a mesma pergunta não aparece
+duas vezes consecutivas quando houver alternativas disponíveis.

@@ -1,0 +1,8 @@
+MEGAQUÍMICO — REATOR COM DUAS REAÇÕES POR FASE
+
+- Cada fase possui uma reação principal e uma reação opcional.
+- Os átomos necessários estão distribuídos pela fase, inclusive com repetições estequiométricas.
+- Aproxime-se do reator e pressione E/AÇÃO.
+- Use as setas para escolher e ENTER para produzir.
+- A reação principal abre a progressão; a opcional concede segredo/recompensa.
+- O HUD mostra as duas reações e quais já foram concluídas.

@@ -1,0 +1,10 @@
+QUÍMICA MAN ULTIMATE V10.1 — BARRAS CINZAS LIVRES
+
+Correção aplicada:
+- As duas barras cinzas verticais continuam visíveis.
+- O jogador agora atravessa essas barras sem ficar preso.
+- As paredes temporárias dos chefes continuam sólidas.
+- O restante das colisões, plataformas, perguntas, chefes, HUD e fases foi preservado.
+
+Arquivo alterado: js/game_v2.js
+Cache atualizado: service-worker.js

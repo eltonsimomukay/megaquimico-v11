@@ -1,0 +1,79 @@
+QUÍMICA MAN ULTIMATE — HTML5
+================================
+
+COMO EXECUTAR
+-------------
+1. Extraia o ZIP.
+2. Execute INICIAR_SERVIDOR_WINDOWS.bat.
+3. Abra http://localhost:8000.
+
+Também pode usar:
+python -m http.server 8000
+
+RECURSOS PRINCIPAIS
+-------------------
+- 8 cenários exclusivos por família química.
+- Inimigos próprios por fase, com silhuetas diferentes.
+- Quimix, chefes, itens, plataformas, mapa e laboratório em PNG.
+- Teclado, mouse, toque e gamepad.
+- Layout responsivo para celular e tablet.
+- Modo tela cheia e instalação como aplicativo web.
+- Save local no navegador.
+- Perguntas e editor gráfico para o professor.
+- Boss Rush e New Game+.
+- Inventário, síntese, compostos e poderes.
+- Placa rolante com informações dos elementos de cada família.
+- Sons diferentes para os 9 poderes.
+- 15 músicas melódicas e 20 efeitos sonoros.
+- Música dinâmica de chefe em três fases.
+- Controle separado de música, efeitos e voz.
+- Voz opcional por síntese de fala do navegador.
+
+MÚSICAS
+-------
+- Menu.
+- Laboratório.
+- Uma música para cada uma das 8 fases.
+- Chefe fase 1, 2 e 3.
+- Dr. Mol.
+- Vitória.
+
+CONTROLES
+---------
+Teclado:
+A/D ou setas — mover
+Espaço/W/↑ — pular
+X — atirar
+TAB — trocar poder
+M — silenciar
+ENTER — confirmar
+ESC — voltar
+
+Mouse:
+- Clique nos menus, mapa, perguntas e configurações.
+- Na fase, use os botões desenhados no Canvas.
+- Também pode clicar nas regiões esquerda/direita da tela.
+
+Celular:
+- Botões grandes abaixo do jogo.
+- Botões dentro do Canvas.
+- Toque nos menus, mapa e respostas.
+- Recomenda-se orientação horizontal.
+
+Gamepad:
+Analógico/D-pad — mover
+A — pular
+X — atirar
+Y — trocar poder
+Start — confirmar
+
+EDITOR DE PERGUNTAS
+-------------------
+Abra editor/perguntas.html ou selecione a opção no menu.
+As perguntas podem ser exportadas e importadas como JSON.
+
+LIMITAÇÕES HONESTAS
+-------------------
+Esta entrega consolida os principais sistemas jogáveis sugeridos. Ela não
+contém milhares de animações artesanais, centenas de compostos ou 5.000
+perguntas prontas. A arquitetura está preparada para expansão gradual.

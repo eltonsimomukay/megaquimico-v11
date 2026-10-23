@@ -1,0 +1,8 @@
+CORREÇÃO DO JOGO ATUAL
+
+- Minichefes agora usam sprites dos inimigos de cada família química.
+- Cada minichefe possui nome próprio visível.
+- Cada fase agora apresenta até 6 elementos da família química para coletar.
+- O nome e o símbolo de cada elemento aparecem sobre o coletável.
+- Ao coletar, aparece uma mensagem com nome, símbolo e número atômico.
+- O restante da estrutura e do progresso da V10 foi preservado.

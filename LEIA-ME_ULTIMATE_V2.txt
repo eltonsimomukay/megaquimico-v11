@@ -1,0 +1,102 @@
+QUÍMICA MAN ULTIMATE V2
+========================
+
+Esta versão implementa uma base funcional para as nove prioridades solicitadas.
+
+JOGABILIDADE
+------------
+- Corrida animada usando múltiplos frames existentes.
+- Salto, dash terrestre/aéreo e wall jump.
+- Coyote time e jump buffer.
+- Mira pelo mouse.
+- Hitbox menor que o sprite.
+- Rampas, plataformas de uma direção e paredes escaláveis.
+- Plataformas móveis e elevadores.
+- Câmera com antecipação, limite na arena do chefe e vibração.
+- Feedback visual ao aterrissar.
+
+FASES
+-----
+- Oito mapas com layouts diferentes.
+- Rotas verticais, rampas, poços, paredes, elevadores e áreas alternativas.
+- Perigos próprios: água, explosões, minerais, magnetismo, cristais,
+  vento, gelo, fogo, oxidação, ácido, névoa, escudos e teleporte.
+- Início, checkpoints, minichefe e arena do chefe.
+
+INIMIGOS E CHEFES
+-----------------
+- Patrulha, salto, voo, escudo, fuga, ácido e chamada de reforços.
+- Minichefe por fase.
+- Chefes com forma 1 e forma 2, hitbox ampliada e ataques novos.
+- Telegraph antes dos golpes e limite prático de projéteis.
+- Fraquezas químicas com dano triplo.
+
+QUÍMICA
+-------
+- Reações no cenário usando compostos.
+- Oito compostos com fórmula, nome, ligação, função, uso, risco e reação.
+- Elementodex com 118 elementos.
+- Questões de múltipla escolha, fórmula, associação, ordem, vidrarias e reação.
+- Inventário persistente de elementos e compostos.
+
+INTERFACE
+---------
+- HUD com HP, poder, energia, objetivo, elementos e segredos.
+- Minimap.
+- Menu de poderes com descrição, energia e fraqueza.
+- Mapa com bloqueio, estrelas, poder e progresso.
+- Pausa com reinício do checkpoint, compêndio e Elementodex.
+
+CONTROLES
+---------
+Teclado:
+A/D ou setas — mover
+Espaço/W/↑ — pular
+Shift — dash
+X — atirar
+Q — terminal de pergunta
+TAB — menu de poderes
+ESC — pausa
+
+Mouse:
+- Mira livre e disparo na direção do cursor.
+- Clique nas regiões da tela para mover/disparar.
+
+Celular:
+- Botões externos e controles no Canvas.
+- Joystick configurável, transparência e lado dos botões.
+- Orientação horizontal solicitada quando suportada.
+
+Gamepad:
+Analógico/D-pad — mover
+A — pular
+B — dash
+X — tiro
+Y — poderes
+Start — pausa/confirmar
+
+PROFESSOR E RELATÓRIOS
+----------------------
+- Editor de perguntas em editor/perguntas.html.
+- Modo sala com duas equipes e placar.
+- Resultados em CSV.
+- Backup JSON.
+- Relatório imprimível/PDF em reports/relatorio.html.
+
+MODOS EXTRAS
+------------
+- Boss Rush.
+- New Game+.
+- Modo Desafio sem dano e com tempo.
+- Modo Professor em sala.
+
+COMO EXECUTAR
+-------------
+Execute INICIAR_SERVIDOR_WINDOWS.bat e abra http://localhost:8000.
+
+LIMITAÇÕES
+----------
+Os sistemas estão funcionais e expansíveis, mas algumas animações utilizam
+os sprites existentes do Quimix em vez de novos milhares de quadros artesanais.
+O conteúdo inicial tem 118 elementos, 8 compostos e exemplos de todos os tipos
+de questão; o banco pode ser ampliado pelo editor.

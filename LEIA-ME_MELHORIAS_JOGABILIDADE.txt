@@ -1,0 +1,13 @@
+QUÍMICA MAN ULTIMATE V10 — MELHORIAS DE JOGABILIDADE
+
+Correções aplicadas ao jogo atual, sem criar outra versão estrutural:
+- Plataformas reposicionadas nas 8 fases com distâncias e alturas alcançáveis.
+- Degraus auxiliares inseridos quando existe subida maior.
+- Plataformas elevadas atravessáveis por baixo para evitar travamentos.
+- Barras cinzas continuam visíveis e sem bloquear o jogador.
+- Pulo, gravidade, controle no ar, coyote time e jump buffer suavizados.
+- Ao produzir o composto no reator, ocorre animação de explosão química.
+- A explosão elimina inimigos comuns presentes na tela e remove projéteis visíveis.
+- O jogo preserva HUD, perguntas, sínteses, portas, recompensas, chefes e progresso.
+
+Abra index.html em navegador moderno.

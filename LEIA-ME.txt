@@ -1,0 +1,87 @@
+QUÍMICA MAN HTML5 COMPLETO
+===========================
+
+COMO ABRIR
+----------
+Extraia o ZIP e abra index.html no Chrome, Edge ou Firefox.
+
+Também pode iniciar um servidor local:
+python -m http.server 8000
+
+Depois acesse:
+http://localhost:8000
+
+RECURSOS
+--------
+- Plataforma 2D em Canvas HTML5.
+- Teclado e botões de toque para celular.
+- Quimix como protagonista.
+- Oito fases e oito famílias químicas.
+- Chefes, fraquezas, poderes e energia.
+- Inimigos variados e câmera lateral.
+- Checkpoints.
+- Perguntas integradas.
+- Inventário e síntese de compostos.
+- Laboratório Central.
+- Mapa-múndi.
+- Save pelo localStorage.
+- Estrelas e fases desbloqueáveis.
+- Final normal e Final Cientista Mestre.
+- Sem bibliotecas externas.
+
+CONTROLES
+---------
+A/D ou setas: mover
+Espaço/W/↑: pular
+X: atirar
+TAB: trocar poder
+ESC: voltar
+
+ARQUIVOS
+--------
+index.html
+css/style.css
+js/data.js
+js/game.js
+
+
+VERSÃO COM SPRITES
+------------------
+Inclui 333 PNGs reais: fundos, Quimix, chefes, inimigos, cenários, plataformas, laboratório, itens, mapa e cutscenes. O JavaScript pré-carrega as imagens por js/assets.js.
+
+ÁUDIO
+-----
+O navegador bloqueia reprodução automática. Pressione ENTER, clique ou toque
+na tela uma vez para liberar o áudio.
+
+Incluído:
+- tiro, pulo, dano, coleta, checkpoint;
+- vitória, derrota e troca de poder;
+- resposta correta/incorreta;
+- música do menu, laboratório, 8 fases, chefes e Dr. Mol.
+
+Tecla M:
+liga/desliga todo o som.
+
+Para melhor compatibilidade, abra pelo servidor local:
+INICIAR_SERVIDOR_WINDOWS.bat
+
+ATUALIZAÇÃO — FAMÍLIAS E PLACA INFORMATIVA
+------------------------------------------
+- O mapa identifica explicitamente a primeira região como SÓDIO.
+- A Fase 1 usa Na Bot, Li Drone e K Slime.
+- As fases 2–8 usam inimigos com símbolos e cores da família correspondente.
+- Cada fase possui uma placa superior com texto rolante.
+- A placa mostra elementos, número atômico, carga iônica, propriedades e usos.
+
+ATUALIZAÇÃO — CENÁRIOS, INIMIGOS E CONTROLES
+--------------------------------------------
+- 8 cenários de fundo exclusivos, um para cada família química.
+- Inimigos redesenhados com silhuetas diferentes: corredores, voadores,
+  tanques, slimes e defensores com escudo.
+- Controle completo por teclado.
+- Controle por mouse: clique nos botões dentro do Canvas ou nas regiões laterais.
+- Clique no lado esquerdo/centro para mover; lado direito para disparar.
+- Menus, mapa e respostas também aceitam clique/toque.
+- Joystick/botões grandes e responsivos para celular.
+- Botões AÇÃO e PODER adaptados para telas sensíveis ao toque.

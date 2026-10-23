@@ -1,0 +1,18 @@
+MEGAQUÍMICO V11 ULTIMATE EDITION
+
+Versão baseada no ZIP V10 Correções Finais. Mantidos recursos gráficos, fases, áudios, editor, relatórios e lógica original.
+
+Melhorias V11:
+- Identidade visual atualizada e layout responsivo.
+- Botão de tela cheia.
+- Acessibilidade: rótulos de controles e foco visível.
+- Captura de ponteiro e liberação de comandos ao perder foco.
+- Novo identificador de cache offline, evitando arquivos V10 obsoletos.
+
+EXECUTAR:
+1. Extraia o ZIP inteiro.
+2. Abra index.html em navegador moderno. Para modo offline/PWA, execute via servidor local ou GitHub Pages.
+3. No Windows, execute: python -m http.server 8000 e acesse http://localhost:8000
+4. Para GitHub Pages, envie todo o conteúdo desta pasta para a raiz do repositório.
+
+OBS: As mecânicas herdadas da V10 foram preservadas. Testes automatizados de jogabilidade em navegador não foram executados.

@@ -1,0 +1,35 @@
+QUÍMICA MAN ULTIMATE V6
+========================
+
+ALTERAÇÕES PRINCIPAIS
+---------------------
+- Nova abertura ilustrada.
+- Oito telas de introdução, uma para cada família química.
+- Pulo aproximadamente 30% mais alto.
+- Gravidade mais suave e melhor controle no ar.
+- Wall jump mais alto.
+- Setas esquerda/direita controlam o movimento corretamente.
+- Seta para cima direciona o tiro para cima.
+- Seta para baixo direciona o tiro para baixo durante o salto.
+- Espaço pula.
+- X carrega e dispara.
+- Shift executa dash.
+- Joystick analógico real para celular.
+- Botões grandes de pulo e tiro no celular.
+- Suporte mantido para teclado, mouse e gamepad.
+- Tiro clássico sem cursor de mira.
+- Cinco vidas iniciais.
+- Resposta correta ganha uma vida.
+- Resposta errada perde uma vida.
+- Fases grandes mantidas.
+
+EXECUÇÃO
+--------
+Extraia o ZIP, execute INICIAR_SERVIDOR_WINDOWS.bat e abra:
+http://localhost:8000
+
+NO CELULAR
+----------
+Use o navegador em orientação horizontal.
+O joystick fica no lado esquerdo.
+PULO e X ficam no lado direito.

@@ -1,0 +1,18 @@
+MEGAQUÍMICO V10 — PODERES ATÔMICOS
+
+ALTERAÇÕES
+- Elementos coletados aparecem como átomos clicáveis na faixa superior da HUD.
+- Clique em um átomo para equipar imediatamente seu poder.
+- Também é possível usar as letras mostradas ao lado de cada átomo.
+- Atalhos disponíveis na ordem exibida: Z, C, V, B, N, M, R e T.
+- O átomo ativo fica iluminado com a cor do poder.
+- Ao coletar um elemento compatível, seu poder é desbloqueado automaticamente.
+- O jogo informa e pronuncia o nome do elemento ativado.
+- Poderes implementados: H, He, N, O, F, Ne, Cl, Ar, Na, C, Fe, Cu, Al e Ca.
+- Cada poder possui cor, dano, custo de energia, velocidade e descrição próprios.
+
+CONTROLES
+- Mouse: clique no átomo na HUD.
+- Teclado: pressione a letra amarela exibida ao lado do átomo.
+- X: disparar.
+- E: interagir.
