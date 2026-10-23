@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Editor de Perguntas — Química Man</title>
+<style>
+body{font-family:Arial;background:#071522;color:#fff;margin:0;padding:20px}
+main{max-width:900px;margin:auto}.card{background:#102940;border:2px solid #43bce8;border-radius:12px;padding:16px;margin:12px 0}
+input,select,textarea,button{width:100%;padding:10px;margin:6px 0;border-radius:7px;border:1px solid #5784a2}
+button{background:#21719e;color:white;font-weight:bold;cursor:pointer}
+.row{display:grid;grid-template-columns:1fr 1fr;gap:10px}.small{color:#b8d7e8}
+</style></head><body><main>
+<h1>Modo Professor — Editor de Perguntas</h1>
+<p class="small">As perguntas ficam salvas no navegador e podem ser exportadas/importadas em JSON.</p>
+<div class="card">
+<input id="q" placeholder="Pergunta">
+<div class="row"><input id="o1" placeholder="Opção 1"><input id="o2" placeholder="Opção 2"></div>
+<div class="row"><input id="o3" placeholder="Opção 3"><select id="a"><option value="0">Correta: opção 1</option><option value="1">Correta: opção 2</option><option value="2">Correta: opção 3</option></select></div>
+<div class="row"><input id="topic" placeholder="Conteúdo"><select id="level"><option>Fácil</option><option>Normal</option><option>Difícil</option></select></div>
+<button onclick="add()">Adicionar pergunta</button>
+</div>
+<div class="card"><button onclick="exportData()">Exportar JSON</button><input type="file" id="file" accept=".json"><button onclick="importData()">Importar JSON</button><button onclick="clearAll()">Apagar perguntas personalizadas</button></div>
+<div id="list"></div>
+<script>
+const KEY="qmCustomQuestions";
+function get(){try{return JSON.parse(localStorage.getItem(KEY))||[]}catch{return[]}}
+function set(x){localStorage.setItem(KEY,JSON.stringify(x));render()}
+function add(){const x=get();x.push({q:q.value,ops:[o1.value,o2.value,o3.value],a:Number(a.value),topic:topic.value||"Química",level:level.value});set(x);q.value=o1.value=o2.value=o3.value=topic.value=""}
+function del(i){const x=get();x.splice(i,1);set(x)}
+function render(){list.innerHTML=get().map((p,i)=>`<div class="card"><b>${i+1}. ${p.q}</b><p>${p.ops.join(" | ")} — correta ${p.a+1}</p><p>${p.topic} · ${p.level}</p><button onclick="del(${i})">Excluir</button></div>`).join("")||'<div class="card">Nenhuma pergunta personalizada.</div>'}
+function exportData(){const b=new Blob([JSON.stringify(get(),null,2)],{type:"application/json"});const u=URL.createObjectURL(b);const a=document.createElement("a");a.href=u;a.download="perguntas_quimica_man.json";a.click();URL.revokeObjectURL(u)}
+function importData(){const f=file.files[0];if(!f)return;const r=new FileReader();r.onload=()=>{try{set(JSON.parse(r.result))}catch{alert("JSON inválido")}};r.readAsText(f)}
+function clearAll(){if(confirm("Apagar todas?"))set([])}
+render();
+</script></main></body></html>

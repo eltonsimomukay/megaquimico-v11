@@ -1,0 +1,8 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><title>Relatório — Química Man</title>
+<style>body{font-family:Arial;margin:30px;color:#162333}h1{color:#12658b}.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}.card{border:1px solid #789;padding:12px;border-radius:8px}table{width:100%;border-collapse:collapse;margin-top:20px}th,td{border:1px solid #9aa;padding:7px;text-align:left}@media print{button{display:none}}</style></head><body>
+<h1>Química Man Ultimate V2 — Relatório</h1><div id="summary" class="grid"></div><table><thead><tr><th>Fase</th><th>Tempo</th><th>Acertos</th><th>Dano</th><th>Estrelas</th><th>Data</th></tr></thead><tbody id="rows"></tbody></table><button onclick="print()">Imprimir / Salvar PDF</button>
+<script>
+const s=JSON.parse(localStorage.getItem("qmUltimateV2")||"{}"),a=s.answers||[],at=s.attempts||[],ok=a.filter(x=>x.correct).length;
+summary.innerHTML=[["Aluno",s.name||"Aluno"],["Elementos",(s.elements||[]).length+"/118"],["Compostos",(s.compounds||[]).length],["Questões",a.length],["Acertos",ok],["Aproveitamento",a.length?Math.round(ok/a.length*100)+"%":"0%"]].map(x=>`<div class=card><b>${x[0]}</b><br>${x[1]}</div>`).join("");
+rows.innerHTML=at.map(x=>`<tr><td>${x.phase}</td><td>${Number(x.time).toFixed(1)} s</td><td>${x.correct}/${x.total}</td><td>${x.damage}</td><td>${x.stars}</td><td>${new Date(x.date).toLocaleString()}</td></tr>`).join("");
+</script></body></html>

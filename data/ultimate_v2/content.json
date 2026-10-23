@@ -1,0 +1,1332 @@
+{
+  "elements": [
+    {
+      "Z": 1,
+      "symbol": "H",
+      "name": "Hidrogênio",
+      "group": 1,
+      "family": "Não metal",
+      "state": "gasoso",
+      "curiosity": "Hidrogênio é o elemento de número atômico 1."
+    },
+    {
+      "Z": 2,
+      "symbol": "He",
+      "name": "Hélio",
+      "group": 18,
+      "family": "Gás nobre",
+      "state": "gasoso",
+      "curiosity": "Hélio é o elemento de número atômico 2."
+    },
+    {
+      "Z": 3,
+      "symbol": "Li",
+      "name": "Lítio",
+      "group": 1,
+      "family": "Metal alcalino",
+      "state": "sólido",
+      "curiosity": "Lítio é o elemento de número atômico 3."
+    },
+    {
+      "Z": 4,
+      "symbol": "Be",
+      "name": "Berílio",
+      "group": 2,
+      "family": "Alcalino-terroso",
+      "state": "sólido",
+      "curiosity": "Berílio é o elemento de número atômico 4."
+    },
+    {
+      "Z": 5,
+      "symbol": "B",
+      "name": "Boro",
+      "group": 13,
+      "family": "Família do boro",
+      "state": "sólido",
+      "curiosity": "Boro é o elemento de número atômico 5."
+    },
+    {
+      "Z": 6,
+      "symbol": "C",
+      "name": "Carbono",
+      "group": 14,
+      "family": "Família do carbono",
+      "state": "sólido",
+      "curiosity": "Carbono é o elemento de número atômico 6."
+    },
+    {
+      "Z": 7,
+      "symbol": "N",
+      "name": "Nitrogênio",
+      "group": 15,
+      "family": "Pnictogênio",
+      "state": "gasoso",
+      "curiosity": "Nitrogênio é o elemento de número atômico 7."
+    },
+    {
+      "Z": 8,
+      "symbol": "O",
+      "name": "Oxigênio",
+      "group": 16,
+      "family": "Calcogênio",
+      "state": "gasoso",
+      "curiosity": "Oxigênio é o elemento de número atômico 8."
+    },
+    {
+      "Z": 9,
+      "symbol": "F",
+      "name": "Flúor",
+      "group": 17,
+      "family": "Halogênio",
+      "state": "gasoso",
+      "curiosity": "Flúor é o elemento de número atômico 9."
+    },
+    {
+      "Z": 10,
+      "symbol": "Ne",
+      "name": "Neônio",
+      "group": 18,
+      "family": "Gás nobre",
+      "state": "gasoso",
+      "curiosity": "Neônio é o elemento de número atômico 10."
+    },
+    {
+      "Z": 11,
+      "symbol": "Na",
+      "name": "Sódio",
+      "group": 1,
+      "family": "Metal alcalino",
+      "state": "sólido",
+      "curiosity": "Sódio é o elemento de número atômico 11."
+    },
+    {
+      "Z": 12,
+      "symbol": "Mg",
+      "name": "Magnésio",
+      "group": 2,
+      "family": "Alcalino-terroso",
+      "state": "sólido",
+      "curiosity": "Magnésio é o elemento de número atômico 12."
+    },
+    {
+      "Z": 13,
+      "symbol": "Al",
+      "name": "Alumínio",
+      "group": 13,
+      "family": "Família do boro",
+      "state": "sólido",
+      "curiosity": "Alumínio é o elemento de número atômico 13."
+    },
+    {
+      "Z": 14,
+      "symbol": "Si",
+      "name": "Silício",
+      "group": 14,
+      "family": "Família do carbono",
+      "state": "sólido",
+      "curiosity": "Silício é o elemento de número atômico 14."
+    },
+    {
+      "Z": 15,
+      "symbol": "P",
+      "name": "Fósforo",
+      "group": 15,
+      "family": "Pnictogênio",
+      "state": "sólido",
+      "curiosity": "Fósforo é o elemento de número atômico 15."
+    },
+    {
+      "Z": 16,
+      "symbol": "S",
+      "name": "Enxofre",
+      "group": 16,
+      "family": "Calcogênio",
+      "state": "sólido",
+      "curiosity": "Enxofre é o elemento de número atômico 16."
+    },
+    {
+      "Z": 17,
+      "symbol": "Cl",
+      "name": "Cloro",
+      "group": 17,
+      "family": "Halogênio",
+      "state": "gasoso",
+      "curiosity": "Cloro é o elemento de número atômico 17."
+    },
+    {
+      "Z": 18,
+      "symbol": "Ar",
+      "name": "Argônio",
+      "group": 18,
+      "family": "Gás nobre",
+      "state": "gasoso",
+      "curiosity": "Argônio é o elemento de número atômico 18."
+    },
+    {
+      "Z": 19,
+      "symbol": "K",
+      "name": "Potássio",
+      "group": 1,
+      "family": "Metal alcalino",
+      "state": "sólido",
+      "curiosity": "Potássio é o elemento de número atômico 19."
+    },
+    {
+      "Z": 20,
+      "symbol": "Ca",
+      "name": "Cálcio",
+      "group": 2,
+      "family": "Alcalino-terroso",
+      "state": "sólido",
+      "curiosity": "Cálcio é o elemento de número atômico 20."
+    },
+    {
+      "Z": 21,
+      "symbol": "Sc",
+      "name": "Escândio",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Escândio é o elemento de número atômico 21."
+    },
+    {
+      "Z": 22,
+      "symbol": "Ti",
+      "name": "Titânio",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Titânio é o elemento de número atômico 22."
+    },
+    {
+      "Z": 23,
+      "symbol": "V",
+      "name": "Vanádio",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Vanádio é o elemento de número atômico 23."
+    },
+    {
+      "Z": 24,
+      "symbol": "Cr",
+      "name": "Cromo",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Cromo é o elemento de número atômico 24."
+    },
+    {
+      "Z": 25,
+      "symbol": "Mn",
+      "name": "Manganês",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Manganês é o elemento de número atômico 25."
+    },
+    {
+      "Z": 26,
+      "symbol": "Fe",
+      "name": "Ferro",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Ferro é o elemento de número atômico 26."
+    },
+    {
+      "Z": 27,
+      "symbol": "Co",
+      "name": "Cobalto",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Cobalto é o elemento de número atômico 27."
+    },
+    {
+      "Z": 28,
+      "symbol": "Ni",
+      "name": "Níquel",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Níquel é o elemento de número atômico 28."
+    },
+    {
+      "Z": 29,
+      "symbol": "Cu",
+      "name": "Cobre",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Cobre é o elemento de número atômico 29."
+    },
+    {
+      "Z": 30,
+      "symbol": "Zn",
+      "name": "Zinco",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Zinco é o elemento de número atômico 30."
+    },
+    {
+      "Z": 31,
+      "symbol": "Ga",
+      "name": "Gálio",
+      "group": 13,
+      "family": "Família do boro",
+      "state": "sólido",
+      "curiosity": "Gálio é o elemento de número atômico 31."
+    },
+    {
+      "Z": 32,
+      "symbol": "Ge",
+      "name": "Germânio",
+      "group": 14,
+      "family": "Família do carbono",
+      "state": "sólido",
+      "curiosity": "Germânio é o elemento de número atômico 32."
+    },
+    {
+      "Z": 33,
+      "symbol": "As",
+      "name": "Arsênio",
+      "group": 15,
+      "family": "Pnictogênio",
+      "state": "sólido",
+      "curiosity": "Arsênio é o elemento de número atômico 33."
+    },
+    {
+      "Z": 34,
+      "symbol": "Se",
+      "name": "Selênio",
+      "group": 16,
+      "family": "Calcogênio",
+      "state": "sólido",
+      "curiosity": "Selênio é o elemento de número atômico 34."
+    },
+    {
+      "Z": 35,
+      "symbol": "Br",
+      "name": "Bromo",
+      "group": 17,
+      "family": "Halogênio",
+      "state": "líquido",
+      "curiosity": "Bromo é o elemento de número atômico 35."
+    },
+    {
+      "Z": 36,
+      "symbol": "Kr",
+      "name": "Criptônio",
+      "group": 18,
+      "family": "Gás nobre",
+      "state": "gasoso",
+      "curiosity": "Criptônio é o elemento de número atômico 36."
+    },
+    {
+      "Z": 37,
+      "symbol": "Rb",
+      "name": "Rubídio",
+      "group": 1,
+      "family": "Metal alcalino",
+      "state": "sólido",
+      "curiosity": "Rubídio é o elemento de número atômico 37."
+    },
+    {
+      "Z": 38,
+      "symbol": "Sr",
+      "name": "Estrôncio",
+      "group": 2,
+      "family": "Alcalino-terroso",
+      "state": "sólido",
+      "curiosity": "Estrôncio é o elemento de número atômico 38."
+    },
+    {
+      "Z": 39,
+      "symbol": "Y",
+      "name": "Ítrio",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Ítrio é o elemento de número atômico 39."
+    },
+    {
+      "Z": 40,
+      "symbol": "Zr",
+      "name": "Zircônio",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Zircônio é o elemento de número atômico 40."
+    },
+    {
+      "Z": 41,
+      "symbol": "Nb",
+      "name": "Nióbio",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Nióbio é o elemento de número atômico 41."
+    },
+    {
+      "Z": 42,
+      "symbol": "Mo",
+      "name": "Molibdênio",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Molibdênio é o elemento de número atômico 42."
+    },
+    {
+      "Z": 43,
+      "symbol": "Tc",
+      "name": "Tecnécio",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Tecnécio é o elemento de número atômico 43."
+    },
+    {
+      "Z": 44,
+      "symbol": "Ru",
+      "name": "Rutênio",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Rutênio é o elemento de número atômico 44."
+    },
+    {
+      "Z": 45,
+      "symbol": "Rh",
+      "name": "Ródio",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Ródio é o elemento de número atômico 45."
+    },
+    {
+      "Z": 46,
+      "symbol": "Pd",
+      "name": "Paládio",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Paládio é o elemento de número atômico 46."
+    },
+    {
+      "Z": 47,
+      "symbol": "Ag",
+      "name": "Prata",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Prata é o elemento de número atômico 47."
+    },
+    {
+      "Z": 48,
+      "symbol": "Cd",
+      "name": "Cádmio",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Cádmio é o elemento de número atômico 48."
+    },
+    {
+      "Z": 49,
+      "symbol": "In",
+      "name": "Índio",
+      "group": 13,
+      "family": "Família do boro",
+      "state": "sólido",
+      "curiosity": "Índio é o elemento de número atômico 49."
+    },
+    {
+      "Z": 50,
+      "symbol": "Sn",
+      "name": "Estanho",
+      "group": 14,
+      "family": "Família do carbono",
+      "state": "sólido",
+      "curiosity": "Estanho é o elemento de número atômico 50."
+    },
+    {
+      "Z": 51,
+      "symbol": "Sb",
+      "name": "Antimônio",
+      "group": 15,
+      "family": "Pnictogênio",
+      "state": "sólido",
+      "curiosity": "Antimônio é o elemento de número atômico 51."
+    },
+    {
+      "Z": 52,
+      "symbol": "Te",
+      "name": "Telúrio",
+      "group": 16,
+      "family": "Calcogênio",
+      "state": "sólido",
+      "curiosity": "Telúrio é o elemento de número atômico 52."
+    },
+    {
+      "Z": 53,
+      "symbol": "I",
+      "name": "Iodo",
+      "group": 17,
+      "family": "Halogênio",
+      "state": "sólido",
+      "curiosity": "Iodo é o elemento de número atômico 53."
+    },
+    {
+      "Z": 54,
+      "symbol": "Xe",
+      "name": "Xenônio",
+      "group": 18,
+      "family": "Gás nobre",
+      "state": "gasoso",
+      "curiosity": "Xenônio é o elemento de número atômico 54."
+    },
+    {
+      "Z": 55,
+      "symbol": "Cs",
+      "name": "Césio",
+      "group": 1,
+      "family": "Metal alcalino",
+      "state": "sólido",
+      "curiosity": "Césio é o elemento de número atômico 55."
+    },
+    {
+      "Z": 56,
+      "symbol": "Ba",
+      "name": "Bário",
+      "group": 2,
+      "family": "Alcalino-terroso",
+      "state": "sólido",
+      "curiosity": "Bário é o elemento de número atômico 56."
+    },
+    {
+      "Z": 57,
+      "symbol": "La",
+      "name": "Lantânio",
+      "group": 3,
+      "family": "Lantanídeo",
+      "state": "sólido",
+      "curiosity": "Lantânio é o elemento de número atômico 57."
+    },
+    {
+      "Z": 58,
+      "symbol": "Ce",
+      "name": "Cério",
+      "group": 3,
+      "family": "Lantanídeo",
+      "state": "sólido",
+      "curiosity": "Cério é o elemento de número atômico 58."
+    },
+    {
+      "Z": 59,
+      "symbol": "Pr",
+      "name": "Praseodímio",
+      "group": 3,
+      "family": "Lantanídeo",
+      "state": "sólido",
+      "curiosity": "Praseodímio é o elemento de número atômico 59."
+    },
+    {
+      "Z": 60,
+      "symbol": "Nd",
+      "name": "Neodímio",
+      "group": 3,
+      "family": "Lantanídeo",
+      "state": "sólido",
+      "curiosity": "Neodímio é o elemento de número atômico 60."
+    },
+    {
+      "Z": 61,
+      "symbol": "Pm",
+      "name": "Promécio",
+      "group": 3,
+      "family": "Lantanídeo",
+      "state": "sólido",
+      "curiosity": "Promécio é o elemento de número atômico 61."
+    },
+    {
+      "Z": 62,
+      "symbol": "Sm",
+      "name": "Samário",
+      "group": 3,
+      "family": "Lantanídeo",
+      "state": "sólido",
+      "curiosity": "Samário é o elemento de número atômico 62."
+    },
+    {
+      "Z": 63,
+      "symbol": "Eu",
+      "name": "Európio",
+      "group": 3,
+      "family": "Lantanídeo",
+      "state": "sólido",
+      "curiosity": "Európio é o elemento de número atômico 63."
+    },
+    {
+      "Z": 64,
+      "symbol": "Gd",
+      "name": "Gadolínio",
+      "group": 3,
+      "family": "Lantanídeo",
+      "state": "sólido",
+      "curiosity": "Gadolínio é o elemento de número atômico 64."
+    },
+    {
+      "Z": 65,
+      "symbol": "Tb",
+      "name": "Térbio",
+      "group": 3,
+      "family": "Lantanídeo",
+      "state": "sólido",
+      "curiosity": "Térbio é o elemento de número atômico 65."
+    },
+    {
+      "Z": 66,
+      "symbol": "Dy",
+      "name": "Disprósio",
+      "group": 3,
+      "family": "Lantanídeo",
+      "state": "sólido",
+      "curiosity": "Disprósio é o elemento de número atômico 66."
+    },
+    {
+      "Z": 67,
+      "symbol": "Ho",
+      "name": "Hólmio",
+      "group": 3,
+      "family": "Lantanídeo",
+      "state": "sólido",
+      "curiosity": "Hólmio é o elemento de número atômico 67."
+    },
+    {
+      "Z": 68,
+      "symbol": "Er",
+      "name": "Érbio",
+      "group": 3,
+      "family": "Lantanídeo",
+      "state": "sólido",
+      "curiosity": "Érbio é o elemento de número atômico 68."
+    },
+    {
+      "Z": 69,
+      "symbol": "Tm",
+      "name": "Túlio",
+      "group": 3,
+      "family": "Lantanídeo",
+      "state": "sólido",
+      "curiosity": "Túlio é o elemento de número atômico 69."
+    },
+    {
+      "Z": 70,
+      "symbol": "Yb",
+      "name": "Itérbio",
+      "group": 3,
+      "family": "Lantanídeo",
+      "state": "sólido",
+      "curiosity": "Itérbio é o elemento de número atômico 70."
+    },
+    {
+      "Z": 71,
+      "symbol": "Lu",
+      "name": "Lutécio",
+      "group": 3,
+      "family": "Lantanídeo",
+      "state": "sólido",
+      "curiosity": "Lutécio é o elemento de número atômico 71."
+    },
+    {
+      "Z": 72,
+      "symbol": "Hf",
+      "name": "Háfnio",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Háfnio é o elemento de número atômico 72."
+    },
+    {
+      "Z": 73,
+      "symbol": "Ta",
+      "name": "Tântalo",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Tântalo é o elemento de número atômico 73."
+    },
+    {
+      "Z": 74,
+      "symbol": "W",
+      "name": "Tungstênio",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Tungstênio é o elemento de número atômico 74."
+    },
+    {
+      "Z": 75,
+      "symbol": "Re",
+      "name": "Rênio",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Rênio é o elemento de número atômico 75."
+    },
+    {
+      "Z": 76,
+      "symbol": "Os",
+      "name": "Ósmio",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Ósmio é o elemento de número atômico 76."
+    },
+    {
+      "Z": 77,
+      "symbol": "Ir",
+      "name": "Irídio",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Irídio é o elemento de número atômico 77."
+    },
+    {
+      "Z": 78,
+      "symbol": "Pt",
+      "name": "Platina",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Platina é o elemento de número atômico 78."
+    },
+    {
+      "Z": 79,
+      "symbol": "Au",
+      "name": "Ouro",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Ouro é o elemento de número atômico 79."
+    },
+    {
+      "Z": 80,
+      "symbol": "Hg",
+      "name": "Mercúrio",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "líquido",
+      "curiosity": "Mercúrio é o elemento de número atômico 80."
+    },
+    {
+      "Z": 81,
+      "symbol": "Tl",
+      "name": "Tálio",
+      "group": 13,
+      "family": "Família do boro",
+      "state": "sólido",
+      "curiosity": "Tálio é o elemento de número atômico 81."
+    },
+    {
+      "Z": 82,
+      "symbol": "Pb",
+      "name": "Chumbo",
+      "group": 14,
+      "family": "Família do carbono",
+      "state": "sólido",
+      "curiosity": "Chumbo é o elemento de número atômico 82."
+    },
+    {
+      "Z": 83,
+      "symbol": "Bi",
+      "name": "Bismuto",
+      "group": 15,
+      "family": "Pnictogênio",
+      "state": "sólido",
+      "curiosity": "Bismuto é o elemento de número atômico 83."
+    },
+    {
+      "Z": 84,
+      "symbol": "Po",
+      "name": "Polônio",
+      "group": 16,
+      "family": "Calcogênio",
+      "state": "sólido",
+      "curiosity": "Polônio é o elemento de número atômico 84."
+    },
+    {
+      "Z": 85,
+      "symbol": "At",
+      "name": "Astato",
+      "group": 17,
+      "family": "Halogênio",
+      "state": "sólido",
+      "curiosity": "Astato é o elemento de número atômico 85."
+    },
+    {
+      "Z": 86,
+      "symbol": "Rn",
+      "name": "Radônio",
+      "group": 18,
+      "family": "Gás nobre",
+      "state": "gasoso",
+      "curiosity": "Radônio é o elemento de número atômico 86."
+    },
+    {
+      "Z": 87,
+      "symbol": "Fr",
+      "name": "Frâncio",
+      "group": 1,
+      "family": "Metal alcalino",
+      "state": "sólido",
+      "curiosity": "Frâncio é o elemento de número atômico 87."
+    },
+    {
+      "Z": 88,
+      "symbol": "Ra",
+      "name": "Rádio",
+      "group": 2,
+      "family": "Alcalino-terroso",
+      "state": "sólido",
+      "curiosity": "Rádio é o elemento de número atômico 88."
+    },
+    {
+      "Z": 89,
+      "symbol": "Ac",
+      "name": "Actínio",
+      "group": 3,
+      "family": "Actinídeo",
+      "state": "sólido",
+      "curiosity": "Actínio é o elemento de número atômico 89."
+    },
+    {
+      "Z": 90,
+      "symbol": "Th",
+      "name": "Tório",
+      "group": 3,
+      "family": "Actinídeo",
+      "state": "sólido",
+      "curiosity": "Tório é o elemento de número atômico 90."
+    },
+    {
+      "Z": 91,
+      "symbol": "Pa",
+      "name": "Protactínio",
+      "group": 3,
+      "family": "Actinídeo",
+      "state": "sólido",
+      "curiosity": "Protactínio é o elemento de número atômico 91."
+    },
+    {
+      "Z": 92,
+      "symbol": "U",
+      "name": "Urânio",
+      "group": 3,
+      "family": "Actinídeo",
+      "state": "sólido",
+      "curiosity": "Urânio é o elemento de número atômico 92."
+    },
+    {
+      "Z": 93,
+      "symbol": "Np",
+      "name": "Netúnio",
+      "group": 3,
+      "family": "Actinídeo",
+      "state": "sólido",
+      "curiosity": "Netúnio é o elemento de número atômico 93."
+    },
+    {
+      "Z": 94,
+      "symbol": "Pu",
+      "name": "Plutônio",
+      "group": 3,
+      "family": "Actinídeo",
+      "state": "sólido",
+      "curiosity": "Plutônio é o elemento de número atômico 94."
+    },
+    {
+      "Z": 95,
+      "symbol": "Am",
+      "name": "Amerício",
+      "group": 3,
+      "family": "Actinídeo",
+      "state": "sólido",
+      "curiosity": "Amerício é o elemento de número atômico 95."
+    },
+    {
+      "Z": 96,
+      "symbol": "Cm",
+      "name": "Cúrio",
+      "group": 3,
+      "family": "Actinídeo",
+      "state": "sólido",
+      "curiosity": "Cúrio é o elemento de número atômico 96."
+    },
+    {
+      "Z": 97,
+      "symbol": "Bk",
+      "name": "Berquélio",
+      "group": 3,
+      "family": "Actinídeo",
+      "state": "sólido",
+      "curiosity": "Berquélio é o elemento de número atômico 97."
+    },
+    {
+      "Z": 98,
+      "symbol": "Cf",
+      "name": "Califórnio",
+      "group": 3,
+      "family": "Actinídeo",
+      "state": "sólido",
+      "curiosity": "Califórnio é o elemento de número atômico 98."
+    },
+    {
+      "Z": 99,
+      "symbol": "Es",
+      "name": "Einstênio",
+      "group": 3,
+      "family": "Actinídeo",
+      "state": "sólido",
+      "curiosity": "Einstênio é o elemento de número atômico 99."
+    },
+    {
+      "Z": 100,
+      "symbol": "Fm",
+      "name": "Férmio",
+      "group": 3,
+      "family": "Actinídeo",
+      "state": "sólido",
+      "curiosity": "Férmio é o elemento de número atômico 100."
+    },
+    {
+      "Z": 101,
+      "symbol": "Md",
+      "name": "Mendelévio",
+      "group": 3,
+      "family": "Actinídeo",
+      "state": "sólido",
+      "curiosity": "Mendelévio é o elemento de número atômico 101."
+    },
+    {
+      "Z": 102,
+      "symbol": "No",
+      "name": "Nobélio",
+      "group": 3,
+      "family": "Actinídeo",
+      "state": "sólido",
+      "curiosity": "Nobélio é o elemento de número atômico 102."
+    },
+    {
+      "Z": 103,
+      "symbol": "Lr",
+      "name": "Laurêncio",
+      "group": 3,
+      "family": "Actinídeo",
+      "state": "sólido",
+      "curiosity": "Laurêncio é o elemento de número atômico 103."
+    },
+    {
+      "Z": 104,
+      "symbol": "Rf",
+      "name": "Rutherfórdio",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Rutherfórdio é o elemento de número atômico 104."
+    },
+    {
+      "Z": 105,
+      "symbol": "Db",
+      "name": "Dúbnio",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Dúbnio é o elemento de número atômico 105."
+    },
+    {
+      "Z": 106,
+      "symbol": "Sg",
+      "name": "Seabórgio",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Seabórgio é o elemento de número atômico 106."
+    },
+    {
+      "Z": 107,
+      "symbol": "Bh",
+      "name": "Bóhrio",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Bóhrio é o elemento de número atômico 107."
+    },
+    {
+      "Z": 108,
+      "symbol": "Hs",
+      "name": "Hássio",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Hássio é o elemento de número atômico 108."
+    },
+    {
+      "Z": 109,
+      "symbol": "Mt",
+      "name": "Meitnério",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Meitnério é o elemento de número atômico 109."
+    },
+    {
+      "Z": 110,
+      "symbol": "Ds",
+      "name": "Darmstádtio",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Darmstádtio é o elemento de número atômico 110."
+    },
+    {
+      "Z": 111,
+      "symbol": "Rg",
+      "name": "Roentgênio",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Roentgênio é o elemento de número atômico 111."
+    },
+    {
+      "Z": 112,
+      "symbol": "Cn",
+      "name": "Copernício",
+      "group": null,
+      "family": "Metal de transição",
+      "state": "sólido",
+      "curiosity": "Copernício é o elemento de número atômico 112."
+    },
+    {
+      "Z": 113,
+      "symbol": "Nh",
+      "name": "Nihônio",
+      "group": 13,
+      "family": "Família do boro",
+      "state": "sólido",
+      "curiosity": "Nihônio é o elemento de número atômico 113."
+    },
+    {
+      "Z": 114,
+      "symbol": "Fl",
+      "name": "Fleróvio",
+      "group": 14,
+      "family": "Família do carbono",
+      "state": "sólido",
+      "curiosity": "Fleróvio é o elemento de número atômico 114."
+    },
+    {
+      "Z": 115,
+      "symbol": "Mc",
+      "name": "Moscóvio",
+      "group": 15,
+      "family": "Pnictogênio",
+      "state": "sólido",
+      "curiosity": "Moscóvio é o elemento de número atômico 115."
+    },
+    {
+      "Z": 116,
+      "symbol": "Lv",
+      "name": "Livermório",
+      "group": 16,
+      "family": "Calcogênio",
+      "state": "sólido",
+      "curiosity": "Livermório é o elemento de número atômico 116."
+    },
+    {
+      "Z": 117,
+      "symbol": "Ts",
+      "name": "Tenessino",
+      "group": 17,
+      "family": "Halogênio",
+      "state": "sólido",
+      "curiosity": "Tenessino é o elemento de número atômico 117."
+    },
+    {
+      "Z": 118,
+      "symbol": "Og",
+      "name": "Oganessônio",
+      "group": 18,
+      "family": "Gás nobre",
+      "state": "sólido",
+      "curiosity": "Oganessônio é o elemento de número atômico 118."
+    }
+  ],
+  "phases": [
+    {
+      "id": 1,
+      "name": "Reino do Sódio",
+      "mechanic": "água e explosões",
+      "hazards": [
+        "water",
+        "explosive"
+      ],
+      "elements": [
+        "Li",
+        "Na",
+        "K"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Fortaleza do Cálcio",
+      "mechanic": "minerais e paredes quebráveis",
+      "hazards": [
+        "breakwall",
+        "fallingrock"
+      ],
+      "elements": [
+        "Be",
+        "Mg",
+        "Ca"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Cidade do Alumínio",
+      "mechanic": "magnetismo e superfícies metálicas",
+      "hazards": [
+        "magnet",
+        "metalrail"
+      ],
+      "elements": [
+        "B",
+        "Al",
+        "Ga"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Bosque do Carbono",
+      "mechanic": "grafite condutor e cristais",
+      "hazards": [
+        "conductor",
+        "crystal"
+      ],
+      "elements": [
+        "C",
+        "Si",
+        "Ge"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Vale do Nitrogênio",
+      "mechanic": "vento, pressão e congelamento",
+      "hazards": [
+        "wind",
+        "ice"
+      ],
+      "elements": [
+        "N",
+        "P",
+        "As"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Templo do Oxigênio",
+      "mechanic": "combustão e oxidação",
+      "hazards": [
+        "fire",
+        "rust"
+      ],
+      "elements": [
+        "O",
+        "S",
+        "Se"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Domínio dos Halogênios",
+      "mechanic": "corrosão e névoa",
+      "hazards": [
+        "acid",
+        "toxic"
+      ],
+      "elements": [
+        "F",
+        "Cl",
+        "Br"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Palácio dos Gases Nobres",
+      "mechanic": "escudos e teleporte",
+      "hazards": [
+        "shield",
+        "teleport"
+      ],
+      "elements": [
+        "He",
+        "Ne",
+        "Ar"
+      ]
+    }
+  ],
+  "compounds": [
+    {
+      "formula": "NaCl",
+      "name": "Cloreto de sódio",
+      "bond": "iônica",
+      "function": "sal",
+      "use": "abre portas iônicas",
+      "risk": "baixo em uso comum",
+      "reaction": "Na⁺ + Cl⁻ → NaCl",
+      "effect": "openIonDoor"
+    },
+    {
+      "formula": "H2O",
+      "name": "Água",
+      "bond": "covalente polar",
+      "function": "óxido",
+      "use": "resfria superfícies",
+      "risk": "reage perigosamente com sódio metálico",
+      "reaction": "2H₂ + O₂ → 2H₂O",
+      "effect": "cool"
+    },
+    {
+      "formula": "CO2",
+      "name": "Dióxido de carbono",
+      "bond": "covalente",
+      "function": "óxido ácido",
+      "use": "apaga focos de chama",
+      "risk": "asfixiante em alta concentração",
+      "reaction": "C + O₂ → CO₂",
+      "effect": "extinguish"
+    },
+    {
+      "formula": "CaCO3",
+      "name": "Carbonato de cálcio",
+      "bond": "iônica",
+      "function": "sal",
+      "use": "forma barreira mineral",
+      "risk": "poeira pode irritar",
+      "reaction": "Ca²⁺ + CO₃²⁻ → CaCO₃",
+      "effect": "mineralShield"
+    },
+    {
+      "formula": "HCl",
+      "name": "Ácido clorídrico",
+      "bond": "covalente/ionizado em água",
+      "function": "ácido",
+      "use": "dissolve carbonatos",
+      "risk": "corrosivo",
+      "reaction": "H₂ + Cl₂ → 2HCl",
+      "effect": "dissolve"
+    },
+    {
+      "formula": "NaOH",
+      "name": "Hidróxido de sódio",
+      "bond": "iônica",
+      "function": "base",
+      "use": "neutraliza obstáculo ácido",
+      "risk": "corrosivo",
+      "reaction": "2Na + 2H₂O → 2NaOH + H₂",
+      "effect": "neutralize"
+    },
+    {
+      "formula": "NH3",
+      "name": "Amônia",
+      "bond": "covalente polar",
+      "function": "base molecular",
+      "use": "ativa terminal nitrogenado",
+      "risk": "irritante e tóxica",
+      "reaction": "N₂ + 3H₂ → 2NH₃",
+      "effect": "nitrogenTerminal"
+    },
+    {
+      "formula": "Al2O3",
+      "name": "Óxido de alumínio",
+      "bond": "predominantemente iônica",
+      "function": "óxido anfótero",
+      "use": "escudo cerâmico",
+      "risk": "poeira irritante",
+      "reaction": "4Al + 3O₂ → 2Al₂O₃",
+      "effect": "ceramicShield"
+    }
+  ],
+  "questions": [
+    {
+      "type": "multiple",
+      "prompt": "Qual partícula tem carga negativa?",
+      "options": [
+        "Próton",
+        "Elétron",
+        "Nêutron"
+      ],
+      "answer": 1,
+      "topic": "Estrutura atômica"
+    },
+    {
+      "type": "formula",
+      "prompt": "Complete: Na + Cl →",
+      "answer": "NaCl",
+      "topic": "Fórmulas"
+    },
+    {
+      "type": "match",
+      "prompt": "Relacione cátion e ânion para formar NaCl.",
+      "left": [
+        "Na⁺"
+      ],
+      "right": [
+        "Cl⁻"
+      ],
+      "answer": [
+        0
+      ],
+      "topic": "Íons"
+    },
+    {
+      "type": "order",
+      "prompt": "Ordene a neutralização.",
+      "items": [
+        "Ácido + base",
+        "Formação de sal",
+        "Formação de água"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "topic": "Reações"
+    },
+    {
+      "type": "reaction",
+      "prompt": "Qual evidência indica formação de gás?",
+      "options": [
+        "Efervescência",
+        "Sedimento apenas",
+        "Mudança de forma"
+      ],
+      "answer": 0,
+      "topic": "Evidências"
+    },
+    {
+      "type": "glassware",
+      "prompt": "Qual vidraria mede volume com alta precisão?",
+      "options": [
+        "Balão volumétrico",
+        "Béquer",
+        "Erlenmeyer"
+      ],
+      "answer": 0,
+      "topic": "Vidrarias"
+    }
+  ]
+}
