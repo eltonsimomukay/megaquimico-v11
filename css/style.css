@@ -1,0 +1,24 @@
+*{box-sizing:border-box}body{margin:0;background:linear-gradient(#07111f,#0b1b31);color:#fff;font-family:Arial,sans-serif;display:flex;justify-content:center;min-height:100vh}#app{width:min(100%,1100px);padding:12px}header{text-align:center}h1{color:#51cfff;letter-spacing:2px;margin:.2rem}header p{margin:.2rem 0 1rem;color:#bfefff}canvas{width:100%;height:auto;background:#142942;border:3px solid #3c7ca8;border-radius:12px;image-rendering:pixelated;display:block}footer{text-align:center;color:#c8d9e8;margin-top:10px;font-size:.9rem}#touchControls{display:none;grid-template-columns:repeat(6,1fr);gap:7px;margin-top:8px}#touchControls button{min-height:54px;border:2px solid #4987af;border-radius:10px;background:#153553;color:white;font-size:1.1rem;touch-action:none}@media(max-width:800px){#touchControls{display:grid}footer{display:none}}
+#touchControls{user-select:none}
+#touchControls button{font-weight:bold;background:linear-gradient(#214b70,#102b45);box-shadow:0 3px 0 #071624}
+#touchControls button:active{transform:translateY(2px);box-shadow:0 1px 0 #071624;background:#2b668f}
+@media(max-width:800px){
+ body{overflow-x:hidden}
+ #app{padding:4px}
+ header h1{font-size:1.25rem}
+ header p{font-size:.8rem}
+ #touchControls{
+   display:grid;position:sticky;bottom:4px;z-index:20;
+   grid-template-columns:repeat(6,1fr);background:rgba(5,15,25,.8);
+   padding:7px;border-radius:12px;backdrop-filter:blur(4px)
+ }
+ #touchControls button{min-height:62px;font-size:1.3rem}
+}
+
+/* V11: interface responsiva e acessibilidade */
+body{background:radial-gradient(ellipse at 50% 0%,#153e60 0%,#081525 65%,#040b14 100%)}
+#app{max-width:1200px}header h1{font-size:clamp(1.45rem,3.2vw,2.5rem);text-shadow:0 0 22px #169de866}.version{color:#ffe28a;font-size:.55em;vertical-align:middle;border:1px solid #e8bd58;border-radius:8px;padding:3px 8px}
+.v11-toolbar{display:flex;align-items:center;justify-content:space-between;gap:8px;padding:6px 3px 10px;color:#b5dff4;font-size:.85rem}.v11-toolbar button{background:#183e5a;border:1px solid #62caff;border-radius:8px;color:#fff;padding:8px 12px;cursor:pointer}
+canvas{border-color:#5ad7ff;box-shadow:0 10px 42px #0008,0 0 18px #168ce633}button:focus-visible{outline:3px solid #ffe28a;outline-offset:2px}
+@media(max-width:800px){#touchControls{grid-template-columns:repeat(3,1fr)}#touchControls button{min-height:52px}.v11-toolbar{font-size:.7rem}}
+@media(prefers-reduced-motion:reduce){#touchControls button{transition:none}}
